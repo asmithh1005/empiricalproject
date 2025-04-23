@@ -1,22 +1,23 @@
 Item,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Total Carbohydrates (g),Dietary Fiber (g),Sugars (g),Protein (g),Chain,category,Protein per 100 Cal
+4 Count Chick-Fil-A Chick-N-Minis,360.0,13.0,4.0,0.0,60.0,1060,41,2.0,8.0,20,Chick-Fil-A,Other,5.555555555555555
+4 Count Mini Yeast Rolls,240.0,8.0,2.5,0.0,20.0,450,36,2.0,7.0,6,Chick-Fil-A,Other,2.5
+10 Count Chick-Fil-A Chick-N-Minis,910.0,34.0,10.0,0.0,150.0,2640,103,6.0,19.0,49,Chick-Fil-A,Other,5.384615384615385
 "Bacon, Egg & Cheese Biscuit",420.0,23.0,11.0,0.0,180.0,1220,38,2.0,4.0,15,Chick-Fil-A,Other,3.571428571428571
 "Bacon, Egg & Cheese Muffin",300.0,13.0,6.0,0.0,180.0,780,28,1.0,2.0,16,Chick-Fil-A,Other,5.333333333333334
+Berry Parfait,270.0,9.0,3.5,0.0,20.0,85,35,1.0,26.0,13,Chick-Fil-A,Other,4.814814814814815
 Berry Parfait with Cookie Crumbs,240.0,8.0,3.5,0.0,20.0,85,31,1.0,25.0,12,Chick-Fil-A,Other,5.0
 Berry Parfait with Granola,270.0,9.0,3.5,0.0,20.0,85,35,1.0,26.0,13,Chick-Fil-A,Other,4.814814814814815
+Breakfast Breads,290.0,15.0,6.0,0.0,0.0,760,37,2.0,4.0,4,Chick-Fil-A,Other,1.3793103448275863
 Buttery Biscuit,290.0,15.0,6.0,0.0,0.0,760,37,2.0,4.0,4,Chick-Fil-A,Other,1.3793103448275863
-"Chick-fil-A Chick-n-Minis, 4 ct",360.0,13.0,4.0,0.0,60.0,1060,41,2.0,8.0,20,Chick-Fil-A,Other,5.555555555555555
-"Chick-fil-A Chick-n-Minis, 10 ct",910.0,34.0,10.0,0.0,150.0,2640,103,6.0,19.0,49,Chick-Fil-A,Other,5.384615384615385
-"Chick-fil-A Chick-n-Minis Football-Shaped Tray, 10 ct",910.0,34.0,10.0,0.0,150.0,2640,103,6.0,19.0,49,Chick-Fil-A,Other,5.384615384615385
-Chick-fil-A Chicken Biscuit,460.0,23.0,8.0,0.0,45.0,1510,45,2.0,6.0,19,Chick-Fil-A,Chicken,4.130434782608695
+Chick-Fil-A Chick-N-Minis,360.0,13.0,4.0,0.0,60.0,1060,41,2.0,8.0,20,Chick-Fil-A,Other,5.555555555555555
+Chick-Fil-A Chicken Biscuit,460.0,23.0,8.0,0.0,45.0,1510,45,2.0,6.0,19,Chick-Fil-A,Chicken,4.130434782608695
 "Chicken, Egg & Cheese Biscuit",550.0,28.0,12.0,0.0,215.0,1870,48,3.0,7.0,27,Chick-Fil-A,Chicken,4.909090909090909
 "Chicken, Egg & Cheese Muffin",410.0,18.0,6.0,0.0,215.0,1320,36,1.0,4.0,27,Chick-Fil-A,Chicken,6.585365853658537
 Egg White Grill,300.0,8.0,4.0,0.0,65.0,990,29,1.0,2.0,27,Chick-Fil-A,Other,9.0
 English Muffin,140.0,1.0,0.0,0.0,0.0,190,27,1.0,1.0,5,Chick-Fil-A,Other,3.571428571428571
-"Fruit Cup, Large",120.0,0.0,0.0,0.0,0.0,0,28,4.0,21.0,1,Chick-Fil-A,Other,0.8333333333333334
-"Fruit Cup, Medium",70.0,0.0,0.0,0.0,0.0,0,16,2.0,12.0,1,Chick-Fil-A,Other,1.4285714285714286
-"Fruit Cup, Small",60.0,0.0,0.0,0.0,0.0,0,14,2.0,11.0,1,Chick-Fil-A,Other,1.6666666666666667
-"Hash Browns, Large",420.0,29.0,4.0,0.0,0.0,700,35,4.0,0.0,4,Chick-Fil-A,Other,0.9523809523809524
-"Hash Browns, Small",270.0,18.0,2.5,0.0,0.0,440,23,3.0,0.0,3,Chick-Fil-A,Other,1.1111111111111112
+Fruit Cup,70.0,0.0,0.0,0.0,0.0,0,16,2.0,12.0,1,Chick-Fil-A,Other,1.4285714285714286
+Hash Browns,270.0,18.0,2.5,0.0,0.0,440,23,3.0,0.0,3,Chick-Fil-A,Other,1.1111111111111112
+Hash Brown Scramble Bowl,470.0,30.0,9.0,0.0,415.0,1350,19,2.0,2.0,29,Chick-Fil-A,Other,6.170212765957447
 Hash Brown Scramble Bowl with Bacon,450.0,32.0,11.0,0.0,395.0,1060,15,2.0,2.0,23,Chick-Fil-A,Other,5.111111111111112
 "Hash Brown Scramble Bowl with Bacon, No Hash Browns",300.0,22.0,10.0,0.0,395.0,810,2,0.0,2.0,22,Chick-Fil-A,Other,7.333333333333333
 Hash Brown Scramble Bowl with Grilled Filet,420.0,26.0,8.0,0.0,420.0,1230,15,2.0,2.0,31,Chick-Fil-A,Other,7.380952380952381
@@ -29,6 +30,7 @@ Hash Brown Scramble Bowl with Sausage,480.0,37.0,12.0,0.0,395.0,1020,15,2.0,1.0,
 "Hash Brown Scramble Bowl with Sausage, No Hash Browns",340.0,27.0,11.0,0.0,395.0,780,2,0.0,1.0,21,Chick-Fil-A,Other,6.176470588235294
 Hash Brown Scramble Bowl with Spicy Chicken,490.0,32.0,9.0,0.0,410.0,1470,22,2.0,2.0,28,Chick-Fil-A,Chicken,5.714285714285714
 "Hash Brown Scramble Bowl with Spicy Chicken, No Hash Browns",340.0,21.0,8.0,0.0,410.0,1230,10,1.0,2.0,27,Chick-Fil-A,Chicken,7.941176470588235
+Hash Brown Scramble Burrito,700.0,40.0,12.0,0.5,415.0,1770,51,3.0,2.0,34,Chick-Fil-A,Other,4.857142857142857
 Hash Brown Scramble Burrito with Bacon,680.0,42.0,14.0,0.5,395.0,1630,46,3.0,2.0,30,Chick-Fil-A,Other,4.411764705882353
 "Hash Brown Scramble Burrito with Bacon, No Hash Browns",540.0,32.0,13.0,0.5,395.0,1230,34,2.0,2.0,27,Chick-Fil-A,Other,5.0
 Hash Brown Scramble Burrito with Grilled Filet,650.0,36.0,12.0,0.5,420.0,1650,46,3.0,2.0,36,Chick-Fil-A,Other,5.538461538461538
@@ -41,41 +43,52 @@ Hash Brown Scramble Burrito with Sausage,720.0,47.0,16.0,0.5,395.0,1450,46,3.0,1
 "Hash Brown Scramble Burrito with Sausage, No Hash Browns",570.0,37.0,14.0,0.5,395.0,1200,34,2.0,1.0,26,Chick-Fil-A,Other,4.56140350877193
 Hash Brown Scramble Burrito with Spicy Chicken,660.0,37.0,11.0,0.5,250.0,1750,54,3.0,2.0,28,Chick-Fil-A,Chicken,4.242424242424243
 "Hash Brown Scramble Burrito with Spicy Chicken, No Hash Browns",510.0,27.0,10.0,0.5,250.0,1510,41,2.0,2.0,27,Chick-Fil-A,Chicken,5.294117647058823
-"Mini Yeast Rolls, 4 ct",240.0,8.0,2.5,0.0,20.0,450,36,2.0,7.0,6,Chick-Fil-A,Other,2.5
+Large Fruit Cup,120.0,0.0,0.0,0.0,0.0,0,28,4.0,21.0,1,Chick-Fil-A,Other,0.8333333333333334
+Large Hash Browns,420.0,29.0,4.0,0.0,0.0,700,35,4.0,0.0,4,Chick-Fil-A,Other,0.9523809523809524
+Medium Fruit Cup,70.0,0.0,0.0,0.0,0.0,0,16,2.0,12.0,1,Chick-Fil-A,Other,1.4285714285714286
 "Sausage, Egg & Cheese Biscuit",620.0,42.0,18.0,0.0,205.0,1510,38,2.0,4.0,22,Chick-Fil-A,Other,3.5483870967741935
 "Sausage, Egg & Cheese Muffin",490.0,32.0,13.0,0.0,205.0,1000,29,1.0,1.0,23,Chick-Fil-A,Other,4.6938775510204085
+Small Fruit Cup,60.0,0.0,0.0,0.0,0.0,0,14,2.0,11.0,1,Chick-Fil-A,Other,1.6666666666666667
+Small Hash Browns,270.0,18.0,2.5,0.0,0.0,440,23,3.0,0.0,3,Chick-Fil-A,Other,1.1111111111111112
 Spicy Chicken Biscuit,450.0,22.0,8.0,0.0,40.0,1570,44,2.0,5.0,19,Chick-Fil-A,Chicken,4.222222222222222
-"Chick-fil-A Chick-n-Strips, 2 ct",200.0,9.0,2.0,0.0,50.0,580,11,0.0,1.0,19,Chick-Fil-A,Other,9.5
-"Chick-fil-A Chick-n-Strips, 3 ct",310.0,14.0,2.5,0.0,75.0,870,16,0.0,2.0,29,Chick-Fil-A,Other,9.35483870967742
-"Chick-fil-A Chick-n-Strips, 4 ct",410.0,19.0,3.5,0.0,100.0,1150,22,0.0,2.0,39,Chick-Fil-A,Other,9.512195121951219
-Chick-fil-A Cool Wrap,660.0,45.0,9.0,0.0,110.0,1420,32,14.0,5.0,43,Chick-Fil-A,Wrap,6.515151515151516
-Chick-fil-A Chicken Sandwich,420.0,18.0,3.5,0.0,70.0,1460,41,1.0,6.0,29,Chick-Fil-A,Chicken,6.904761904761905
-Chick-fil-A Deluxe Sandwich with American,490.0,22.0,6.0,0.0,85.0,1700,43,1.0,7.0,32,Chick-Fil-A,Sandwich,6.530612244897959
-Chick-fil-A Deluxe Sandwich with Colby Jack,510.0,24.0,8.0,0.0,90.0,1610,43,1.0,7.0,34,Chick-Fil-A,Sandwich,6.666666666666667
-Chick-fil-A Deluxe Sandwich with No Cheese,430.0,18.0,3.5,0.0,70.0,1470,43,1.0,7.0,29,Chick-Fil-A,Sandwich,6.744186046511628
-Chick-fil-A Deluxe Sandwich with Pepper Jack,510.0,24.0,7.0,0.0,90.0,1610,43,1.0,7.0,34,Chick-Fil-A,Sandwich,6.666666666666667
-"Chick-fil-A Nuggets, 5 ct",160.0,7.0,1.5,0.0,50.0,760,7,0.0,1.0,17,Chick-Fil-A,Other,10.625
-"Chick-fil-A Nuggets, 8 ct",250.0,11.0,2.5,0.0,85.0,1210,11,0.0,1.0,27,Chick-Fil-A,Other,10.8
-"Chick-fil-A Nuggets, 12 ct",380.0,17.0,3.5,0.0,125.0,1820,16,0.0,1.0,40,Chick-Fil-A,Other,10.526315789473683
-"Chick-fil-A Nuggets, 30 ct",950.0,43.0,9.0,0.0,315.0,4550,41,0.0,4.0,100,Chick-Fil-A,Other,10.526315789473683
-"Chick-fil-A Nuggets Football-Shaped Tray, 30 ct",950.0,43.0,9.0,0.0,315.0,4550,41,0.0,4.0,100,Chick-Fil-A,Other,10.526315789473683
+2 Count Chick-Fil-A Chick-N-Strips,200.0,9.0,2.0,0.0,50.0,580,11,0.0,1.0,19,Chick-Fil-A,Other,9.5
+3 Count Chick-Fil-A Chick-N-Strips,310.0,14.0,2.5,0.0,75.0,870,16,0.0,2.0,29,Chick-Fil-A,Other,9.35483870967742
+4 Count Chick-Fil-A Chick-N-Strips,410.0,19.0,3.5,0.0,100.0,1150,22,0.0,2.0,39,Chick-Fil-A,Other,9.512195121951219
+5 Count Chick-Fil-A Nuggets,160.0,7.0,1.5,0.0,50.0,760,7,0.0,1.0,17,Chick-Fil-A,Other,10.625
+5 Count Grilled Nuggets,80.0,2.0,0.0,0.0,55.0,270,1,0.0,0.0,16,Chick-Fil-A,Other,20.0
+8 Count Chick-Fil-A Nuggets,250.0,11.0,2.5,0.0,85.0,1210,11,0.0,1.0,27,Chick-Fil-A,Other,10.8
+8 Count Grilled Nuggets,130.0,3.0,0.5,0.0,85.0,440,1,0.0,1.0,25,Chick-Fil-A,Other,19.230769230769234
+12 Count Chick-Fil-A Nuggets,380.0,17.0,3.5,0.0,125.0,1820,16,0.0,1.0,40,Chick-Fil-A,Other,10.526315789473683
+12 Count Grilled Nuggets,200.0,4.5,1.0,0.0,130.0,660,2,0.0,1.0,38,Chick-Fil-A,Other,19.0
+30 Count Chick-Fil-A Nuggets,950.0,43.0,9.0,0.0,315.0,4550,41,0.0,4.0,100,Chick-Fil-A,Other,10.526315789473683
+30 Count Grilled Nuggets,510.0,11.0,3.0,0.0,335.0,1710,4,1.0,3.0,98,Chick-Fil-A,Other,19.215686274509807
+Chick-Fil-A Chick-N-Strips,310.0,14.0,2.5,0.0,75.0,870,16,0.0,2.0,29,Chick-Fil-A,Other,9.35483870967742
+Chick-Fil-A Cool Wrap,660.0,45.0,9.0,0.0,110.0,1420,32,14.0,5.0,43,Chick-Fil-A,Wrap,6.515151515151516
+Chick-Fil-A Chicken Sandwich,420.0,18.0,3.5,0.0,70.0,1460,41,1.0,6.0,29,Chick-Fil-A,Chicken,6.904761904761905
+Chick-Fil-A Deluxe Sandwich,490.0,22.0,6.0,0.0,85.0,1700,43,1.0,7.0,32,Chick-Fil-A,Sandwich,6.530612244897959
+Chick-Fil-A Deluxe Sandwich with American,490.0,22.0,6.0,0.0,85.0,1700,43,1.0,7.0,32,Chick-Fil-A,Sandwich,6.530612244897959
+Chick-Fil-A Deluxe Sandwich with Colby Jack,510.0,24.0,8.0,0.0,90.0,1610,43,1.0,7.0,34,Chick-Fil-A,Sandwich,6.666666666666667
+Chick-Fil-A Deluxe Sandwich with No Cheese,430.0,18.0,3.5,0.0,70.0,1470,43,1.0,7.0,29,Chick-Fil-A,Sandwich,6.744186046511628
+Chick-Fil-A Deluxe Sandwich with Pepper Jack,520.0,24.0,8.0,0.0,90.0,1610,43,1.0,7.0,35,Chick-Fil-A,Sandwich,6.730769230769231
+Chick-Fil-A Grilled Chicken Club Sandwich,520.0,22.0,8.0,0.0,105.0,1130,45,3.0,12.0,37,Chick-Fil-A,Chicken,7.115384615384615
 Grilled Chicken Club with American,490.0,19.0,6.0,0.0,100.0,1150,45,3.0,12.0,34,Chick-Fil-A,Chicken,6.938775510204081
 Grilled Chicken Club with Colby Jack,520.0,22.0,8.0,0.0,105.0,1130,45,3.0,12.0,37,Chick-Fil-A,Chicken,7.115384615384615
 Grilled Chicken Club with No Cheese,440.0,15.0,4.0,0.0,85.0,910,45,3.0,11.0,31,Chick-Fil-A,Chicken,7.045454545454545
 Grilled Chicken Club with Pepper Jack,520.0,21.0,8.0,0.0,105.0,1050,45,3.0,11.0,36,Chick-Fil-A,Chicken,6.923076923076923
 Grilled Chicken Sandwich,390.0,11.0,2.5,0.0,75.0,770,45,3.0,11.0,28,Chick-Fil-A,Chicken,7.179487179487179
-"Grilled Nuggets, 5 ct",80.0,2.0,0.0,0.0,55.0,270,1,0.0,0.0,16,Chick-Fil-A,Other,20.0
-"Grilled Nuggets, 8 ct",130.0,3.0,0.5,0.0,85.0,440,1,0.0,1.0,25,Chick-Fil-A,Other,19.230769230769234
-"Grilled Nuggets, 12 ct",200.0,4.5,1.0,0.0,130.0,660,2,0.0,1.0,38,Chick-Fil-A,Other,19.0
-"Grilled Nuggets, 30 ct",510.0,11.0,3.0,0.0,335.0,1710,4,1.0,3.0,98,Chick-Fil-A,Other,19.215686274509807
+Grilled Nuggets,130.0,3.0,0.5,0.0,85.0,440,1,0.0,1.0,25,Chick-Fil-A,Other,19.230769230769234
+Smokehouse BBQ Bacon Sandwich with Chick-Fil-A Filet,670.0,31.0,11.0,0.0,110.0,1930,57,3.0,12.0,41,Chick-Fil-A,Sandwich,6.119402985074627
+Smokehouse BBQ Bacon Sandwich with Grilled Filet,520.0,21.0,9.0,0.0,110.0,1190,46,3.0,12.0,38,Chick-Fil-A,Sandwich,7.307692307692308
+Smokehouse BBQ Bacon Sandwich with Spicy Filet,690.0,33.0,11.0,0.0,105.0,2200,61,3.0,13.0,40,Chick-Fil-A,Sandwich,5.797101449275362
 Spicy Chicken Sandwich,450.0,19.0,4.0,0.0,65.0,1730,45,1.0,6.0,28,Chick-Fil-A,Chicken,6.222222222222222
+Spicy Deluxe Sandwich,540.0,26.0,8.0,0.0,85.0,1880,47,2.0,7.0,34,Chick-Fil-A,Sandwich,6.296296296296296
 Spicy Deluxe Sandwich with American,510.0,23.0,6.0,0.0,80.0,1970,47,2.0,7.0,31,Chick-Fil-A,Sandwich,6.078431372549019
 Spicy Deluxe Sandwich with Colby Jack,540.0,26.0,8.0,0.0,85.0,1880,47,2.0,7.0,34,Chick-Fil-A,Sandwich,6.296296296296296
 Spicy Deluxe Sandwich with No Cheese,460.0,19.0,4.0,0.0,65.0,1730,46,2.0,7.0,28,Chick-Fil-A,Sandwich,6.086956521739131
-Spicy Deluxe Sandwich with Pepper Jack,520.0,25.0,7.0,0.0,80.0,1790,46,2.0,7.0,31,Chick-Fil-A,Sandwich,5.961538461538462
+Spicy Deluxe Sandwich with Pepper Jack,540.0,26.0,8.0,0.0,85.0,1880,47,2.0,7.0,34,Chick-Fil-A,Sandwich,6.296296296296296
 Cobb Salad,830.0,60.0,13.0,0.0,230.0,2220,31,5.0,8.0,42,Chick-Fil-A,Salad,5.0602409638554215
-Cobb Salad with Chick-fil-A Chick-n-Strips,890.0,63.0,13.0,0.0,220.0,1880,37,5.0,9.0,44,Chick-Fil-A,Salad,4.943820224719101
-Cobb Salad with Chick-fil-A Filet,830.0,60.0,13.0,0.0,215.0,2130,33,5.0,9.0,39,Chick-Fil-A,Salad,4.698795180722891
+Cobb Salad with Chick-Fil-A Chick-N-Strips,890.0,63.0,13.0,0.0,220.0,1880,37,5.0,9.0,44,Chick-Fil-A,Salad,4.943820224719101
+Cobb Salad with Chick-Fil-A Filet,830.0,60.0,13.0,0.0,215.0,2130,33,5.0,9.0,39,Chick-Fil-A,Salad,4.698795180722891
 Cobb Salad with Grilled Filet (Cold),690.0,50.0,11.0,0.0,220.0,1390,22,5.0,8.0,36,Chick-Fil-A,Salad,5.217391304347826
 Cobb Salad with Grilled Filet (Warm),690.0,50.0,11.0,0.0,215.0,1380,22,5.0,8.0,36,Chick-Fil-A,Salad,5.217391304347826
 Cobb Salad with Grilled Nuggets,710.0,52.0,11.0,0.0,230.0,1450,22,6.0,8.0,40,Chick-Fil-A,Salad,5.633802816901409
@@ -84,108 +97,129 @@ Cobb Salad with Nuggets,830.0,60.0,13.0,0.0,230.0,2220,31,5.0,8.0,42,Chick-Fil-A
 Cobb Salad with Spicy Filet,860.0,62.0,13.0,0.0,210.0,2400,37,6.0,9.0,38,Chick-Fil-A,Salad,4.4186046511627906
 Cobb Salad with Spicy Grilled Filet (Cold),690.0,51.0,11.0,0.0,210.0,1740,23,6.0,8.0,34,Chick-Fil-A,Salad,4.9275362318840585
 Market Salad,550.0,31.0,6.0,0.0,80.0,1010,42,5.0,26.0,28,Chick-Fil-A,Salad,5.090909090909091
-Market Salad with Chick-fil-A Chick-n-Strips,750.0,43.0,8.0,0.0,85.0,1500,57,5.0,27.0,36,Chick-Fil-A,Salad,4.8
-Market Salad with Chick-fil-A Filet,690.0,41.0,8.0,0.0,80.0,1750,53,0.0,27.0,31,Chick-Fil-A,Salad,4.492753623188406
+Market Salad with Chick-Fil-A Chick-N-Strips,750.0,43.0,8.0,0.0,85.0,1500,57,5.0,27.0,36,Chick-Fil-A,Salad,4.8
+Market Salad with Chick-Fil-A Filet,690.0,41.0,8.0,0.0,80.0,1760,53,5.0,27.0,31,Chick-Fil-A,Salad,4.492753623188406
 Market Salad with Grilled Filet (Cold),550.0,31.0,6.0,0.0,80.0,1010,42,5.0,26.0,28,Chick-Fil-A,Salad,5.090909090909091
 Market Salad with Grilled Filet (Warm),550.0,31.0,6.0,0.0,80.0,1010,42,5.0,26.0,28,Chick-Fil-A,Salad,5.090909090909091
 Market Salad with Grilled Nuggets,570.0,32.0,6.0,0.0,95.0,1080,41,6.0,27.0,32,Chick-Fil-A,Salad,5.614035087719298
 Market Salad with No Chicken,440.0,29.0,6.0,0.0,10.0,640,40,5.0,26.0,7,Chick-Fil-A,Chicken,1.5909090909090908
-Market Salad with Nuggets,690.0,40.0,8.0,0.0,90.0,1850,51,5.0,27.0,34,Chick-Fil-A,Salad,4.9275362318840585
+Market Salad with Nuggets,700.0,40.0,8.0,0.0,90.0,1850,51,5.0,27.0,34,Chick-Fil-A,Salad,4.857142857142857
 Market Salad with Spicy Filet,720.0,42.0,8.0,0.0,75.0,2020,56,6.0,27.0,30,Chick-Fil-A,Salad,4.166666666666666
 Market Salad with Spicy Grilled Filet (Cold),540.0,31.0,6.0,0.0,70.0,1360,42,6.0,27.0,26,Chick-Fil-A,Salad,4.814814814814815
 Spicy Southwest Salad,680.0,49.0,10.0,0.0,100.0,1570,27,7.0,7.0,33,Chick-Fil-A,Salad,4.852941176470589
-Spicy Southwest Salad with Chick-fil-A Chick-n-Strips,880.0,60.0,12.0,0.0,115.0,1710,41,7.0,8.0,43,Chick-Fil-A,Salad,4.886363636363637
-Spicy Southwest Salad with Chick-fil-A Filet,830.0,58.0,12.0,0.0,110.0,1960,37,7.0,8.0,38,Chick-Fil-A,Salad,4.578313253012048
+Spicy Southwest Salad with Chick-Fil-A Chick-N-Strips,880.0,60.0,12.0,0.0,115.0,1710,41,7.0,8.0,43,Chick-Fil-A,Salad,4.886363636363637
+Spicy Southwest Salad with Chick-Fil-A Filet,800.0,56.0,11.0,0.0,110.0,1950,37,7.0,8.0,36,Chick-Fil-A,Salad,4.5
 Spicy Southwest Salad with Grilled Filet (Cold),680.0,48.0,10.0,0.0,110.0,1220,26,7.0,7.0,35,Chick-Fil-A,Salad,5.147058823529411
 Spicy Southwest Salad with Grilled Filet (Warm),680.0,48.0,10.0,0.0,110.0,1220,26,7.0,7.0,35,Chick-Fil-A,Salad,5.147058823529411
 Spicy Southwest Salad with Grilled Nuggets,700.0,49.0,10.0,0.0,125.0,1290,26,7.0,7.0,39,Chick-Fil-A,Salad,5.571428571428571
 Spicy Southwest Salad with No Chicken,570.0,47.0,10.0,0.0,35.0,850,25,7.0,6.0,14,Chick-Fil-A,Chicken,2.456140350877193
-Spicy Southwest Salad with Nuggets,830.0,58.0,12.0,0.0,120.0,2060,36,7.0,7.0,40,Chick-Fil-A,Salad,4.819277108433735
+Spicy Southwest Salad with Nuggets,800.0,56.0,11.0,0.0,120.0,2050,35,7.0,7.0,39,Chick-Fil-A,Salad,4.875
 Spicy Southwest Salad with Spicy Filet,850.0,60.0,12.0,0.0,105.0,2230,41,8.0,8.0,37,Chick-Fil-A,Salad,4.352941176470588
 Spicy Southwest Salad with Spicy Grilled Filet (Cold),680.0,49.0,10.0,0.0,100.0,1570,27,7.0,7.0,33,Chick-Fil-A,Salad,4.852941176470589
+Bowl Of Chicken Noodle Soup,280.0,6.0,2.0,0.0,55.0,2060,38,2.0,2.0,17,Chick-Fil-A,Chicken,6.071428571428571
 Buddy Fruits Apple Sauce,45.0,0.0,0.0,0.0,0.0,0,12,1.0,8.0,0,Chick-Fil-A,Other,0.0
-"Chick-fil-A Waffle Potato Fries, Large",600.0,35.0,5.0,0.0,0.0,340,65,7.0,1.0,7,Chick-Fil-A,Side,1.1666666666666667
-"Chick-fil-A Waffle Potato Fries, Medium",420.0,24.0,4.0,0.0,0.0,240,45,5.0,1.0,5,Chick-Fil-A,Side,1.1904761904761905
-"Chick-fil-A Waffle Potato Fries, Small",320.0,19.0,3.0,0.0,0.0,190,35,4.0,1.0,4,Chick-Fil-A,Side,1.25
-"Chicken Noodle Soup, Bowl",280.0,6.0,2.0,0.0,55.0,2060,38,2.0,2.0,17,Chick-Fil-A,Chicken,6.071428571428571
-"Chicken Noodle Soup, Cup",170.0,4.0,1.0,0.0,30.0,1220,25,1.0,1.0,10,Chick-Fil-A,Chicken,5.88235294117647
-"Chicken Tortilla Soup, Bowl",580.0,16.0,5.0,0.0,90.0,1980,65,31.0,7.0,44,Chick-Fil-A,Chicken,7.586206896551724
-"Chicken Tortilla Soup, Cup",340.0,11.0,3.0,0.0,50.0,1070,38,17.0,4.0,24,Chick-Fil-A,Chicken,7.0588235294117645
+Chick-Fil-A Waffle Potato Fries,420.0,24.0,4.0,0.0,0.0,240,45,5.0,1.0,5,Chick-Fil-A,Side,1.1904761904761905
+Chicken Noodle Soup,170.0,4.0,1.0,0.0,30.0,1220,25,1.0,1.0,10,Chick-Fil-A,Chicken,5.88235294117647
+Cup Of Chicken Noodle Soup,170.0,4.0,1.0,0.0,30.0,1220,25,1.0,1.0,10,Chick-Fil-A,Chicken,5.88235294117647
 Kale Crunch Side,170.0,12.0,1.5,0.0,0.0,250,13,4.0,8.0,4,Chick-Fil-A,Side,2.3529411764705883
-"Mac & Cheese, Large",840.0,53.0,30.0,0.5,130.0,2230,53,5.0,6.0,38,Chick-Fil-A,Other,4.523809523809524
-"Mac & Cheese, Medium",450.0,29.0,16.0,0.0,70.0,1190,28,3.0,3.0,20,Chick-Fil-A,Other,4.444444444444445
-"Mac & Cheese, Small",270.0,17.0,10.0,0.0,40.0,710,17,2.0,2.0,12,Chick-Fil-A,Other,4.444444444444445
+Large Chick-Fil-A Waffle Potato Fries,600.0,35.0,5.0,0.0,0.0,340,65,7.0,1.0,7,Chick-Fil-A,Side,1.1666666666666667
+Large Mac & Cheese,840.0,53.0,30.0,0.5,130.0,2230,53,5.0,6.0,38,Chick-Fil-A,Other,4.523809523809524
+Mac & Cheese,450.0,29.0,16.0,0.0,70.0,1190,28,3.0,3.0,20,Chick-Fil-A,Other,4.444444444444445
+Medium Chick-Fil-A Waffle Potato Fries,420.0,24.0,4.0,0.0,0.0,240,45,5.0,1.0,5,Chick-Fil-A,Side,1.1904761904761905
+Medium Mac & Cheese,450.0,29.0,16.0,0.0,70.0,1190,28,3.0,3.0,20,Chick-Fil-A,Other,4.444444444444445
+"Side, Berry Parfait",270.0,9.0,3.5,0.0,20.0,85,35,1.0,26.0,13,Chick-Fil-A,Side,4.814814814814815
 "Side, Berry Parfait with Cookie Crumbs",240.0,8.0,3.5,0.0,20.0,85,31,1.0,25.0,12,Chick-Fil-A,Side,5.0
 "Side, Berry Parfait with Granola",270.0,9.0,3.5,0.0,20.0,85,35,1.0,26.0,13,Chick-Fil-A,Side,4.814814814814815
-"Side Fruit Cup, Large",120.0,0.0,0.0,0.0,0.0,0,28,4.0,21.0,1,Chick-Fil-A,Side,0.8333333333333334
-"Side Fruit Cup, Medium",70.0,0.0,0.0,0.0,0.0,0,16,2.0,12.0,1,Chick-Fil-A,Side,1.4285714285714286
-"Side Fruit Cup, Small",60.0,0.0,0.0,0.0,0.0,0,14,2.0,11.0,1,Chick-Fil-A,Side,1.6666666666666667
+"Side, Fruit Cup",70.0,0.0,0.0,0.0,0.0,0,16,2.0,12.0,1,Chick-Fil-A,Side,1.4285714285714286
+"Side, Large Fruit Cup",120.0,0.0,0.0,0.0,0.0,0,28,4.0,21.0,1,Chick-Fil-A,Side,0.8333333333333334
+"Side, Medium Fruit Cup",70.0,0.0,0.0,0.0,0.0,0,16,2.0,12.0,1,Chick-Fil-A,Side,1.4285714285714286
+"Side, Small Fruit Cup",60.0,0.0,0.0,0.0,0.0,0,14,2.0,11.0,1,Chick-Fil-A,Side,1.6666666666666667
 Side Salad,470.0,42.0,8.0,0.0,35.0,700,14,4.0,5.0,6,Chick-Fil-A,Salad,1.276595744680851
+Small Chick-Fil-A Waffle Potato Fries,320.0,19.0,3.0,0.0,0.0,190,35,4.0,1.0,4,Chick-Fil-A,Side,1.25
+Small Mac & Cheese,270.0,17.0,10.0,0.0,40.0,710,17,2.0,2.0,12,Chick-Fil-A,Other,4.444444444444445
 Waffle Potato Chips,220.0,13.0,3.5,0.0,0.0,250,25,2.0,0.0,3,Chick-Fil-A,Other,1.3636363636363635
-"Kids Chick-fil-A Chick-n-Strips, 2 ct",200.0,9.0,2.0,0.0,50.0,580,11,0.0,1.0,19,Chick-Fil-A,Other,9.5
-"Kids Chick-fil-A Nuggets, 5 ct",160.0,7.0,1.5,0.0,50.0,760,7,0.0,1.0,17,Chick-Fil-A,Other,10.625
-"Kids Grilled Nuggets, 5 ct",80.0,2.0,0.0,0.0,55.0,270,1,0.0,0.0,16,Chick-Fil-A,Other,20.0
-6 Pack Chocolate Chunk Cookie (per Cookie),370.0,17.0,9.0,0.0,15.0,230,49,3.0,26.0,5,Chick-Fil-A,Other,1.3513513513513513
-Chick-fil-A Icedream Cone,180.0,4.0,2.5,0.0,15.0,90,32,0.0,25.0,4,Chick-Fil-A,Other,2.2222222222222223
-Chick-fil-A Icedream Cup,140.0,3.5,2.5,0.0,15.0,75,24,0.0,24.0,4,Chick-Fil-A,Other,2.857142857142857
+Kids 2 Count Chick-Fil-A Chick-N-Strips,200.0,9.0,2.0,0.0,50.0,580,11,0.0,1.0,19,Chick-Fil-A,Other,9.5
+Kids 5 Count Chick-Fil-A Nuggets,160.0,7.0,1.5,0.0,50.0,760,7,0.0,1.0,17,Chick-Fil-A,Other,10.625
+Kids 5 Count Grilled Nuggets,80.0,2.0,0.0,0.0,55.0,270,1,0.0,0.0,16,Chick-Fil-A,Other,20.0
+6 Pack Chocolate Chunk Cookie,370.0,17.0,9.0,0.0,15.0,230,49,3.0,26.0,5,Chick-Fil-A,Other,1.3513513513513513
+Chick-Fil-A Icedream Cone,180.0,4.0,2.5,0.0,15.0,90,32,0.0,25.0,4,Chick-Fil-A,Other,2.2222222222222223
+Chick-Fil-A Icedream Cup,140.0,3.5,2.5,0.0,15.0,75,24,0.0,24.0,4,Chick-Fil-A,Other,2.857142857142857
 Chocolate Chunk Cookie,370.0,17.0,9.0,0.0,15.0,230,49,3.0,26.0,5,Chick-Fil-A,Other,1.3513513513513513
 Chocolate Fudge Brownie,370.0,21.0,8.0,0.0,65.0,140,47,2.0,35.0,4,Chick-Fil-A,Other,1.0810810810810811
-Chocolate Milkshake,590.0,22.0,14.0,1.0,85.0,360,90,1.0,87.0,12,Chick-Fil-A,Other,2.0338983050847457
-Cookies & Cream Milkshake,630.0,26.0,15.0,1.0,90.0,440,90,1.0,84.0,13,Chick-Fil-A,Other,2.0634920634920633
-Frosted Coffee,230.0,6.0,3.5,0.0,25.0,125,39,0.0,39.0,6,Chick-Fil-A,Other,2.608695652173913
-Frosted Lemonade,320.0,6.0,3.5,0.0,25.0,120,65,0.0,63.0,6,Chick-Fil-A,Other,1.875
-Frosted Lemonade with Diet Lemonade,250.0,6.0,3.5,0.0,25.0,125,46,0.0,43.0,6,Chick-Fil-A,Other,2.4
-Peppermint Chip Frosted Coffee,430.0,9.0,6.0,0.0,25.0,170,83,1.0,68.0,7,Chick-Fil-A,Other,1.627906976744186
-Peppermint Chip Milkshake,670.0,23.0,15.0,1.0,80.0,360,109,1.0,94.0,11,Chick-Fil-A,Other,1.6417910447761193
-Strawberry Milkshake,590.0,20.0,13.0,0.5,80.0,410,93,1.0,88.0,11,Chick-Fil-A,Other,1.864406779661017
+Chocolate Milkshake,600.0,22.0,13.0,1.0,85.0,360,93,1.0,90.0,12,Chick-Fil-A,Other,2.0
+Cookies & Cream Milkshake,630.0,25.0,15.0,1.0,85.0,430,91,1.0,84.0,13,Chick-Fil-A,Other,2.0634920634920633
+Frosted Coffee,260.0,7.0,4.5,0.0,25.0,140,45,0.0,44.0,7,Chick-Fil-A,Other,2.6923076923076925
+Frosted Lemonade,350.0,7.0,4.5,0.0,25.0,135,67,0.0,65.0,7,Chick-Fil-A,Other,2.0
+Frosted Lemonade with Diet Lemonade,280.0,7.0,4.5,0.0,25.0,140,50,0.0,48.0,7,Chick-Fil-A,Other,2.5
+Pineapple Dragonfruit Frosted Diet Lemonade,300.0,7.0,4.5,0.0,25.0,150,54,0.0,48.0,7,Chick-Fil-A,Other,2.3333333333333335
+Pineapple Dragonfruit Frosted Lemonade,360.0,7.0,4.5,0.0,25.0,150,70,0.0,63.0,7,Chick-Fil-A,Other,1.9444444444444444
+Pineapple Dragonfruit Frosted Lemonade Beverages,360.0,7.0,4.5,0.0,25.0,150,70,0.0,63.0,7,Chick-Fil-A,Drink,1.9444444444444444
+Strawberry Milkshake,560.0,18.0,11.0,0.5,70.0,370,92,1.0,86.0,10,Chick-Fil-A,Other,1.7857142857142856
 Vanilla Milkshake,580.0,23.0,15.0,1.0,90.0,390,82,1.0,80.0,13,Chick-Fil-A,Other,2.2413793103448274
 1% Chocolate Milk,140.0,2.0,1.5,0.0,10.0,160,23,0.0,21.0,7,Chick-Fil-A,Other,5.0
 1% Milk,90.0,2.0,1.5,0.0,10.0,105,10,0.0,10.0,7,Chick-Fil-A,Other,7.777777777777778
-"Chick-fil-A Diet Lemonade, Gallon",460.0,1.5,0.0,0.0,0.0,95,126,2.0,91.0,3,Chick-Fil-A,Other,0.6521739130434783
-"Chick-fil-A Diet Lemonade, Large",80.0,0.0,0.0,0.0,0.0,15,23,0.0,16.0,0,Chick-Fil-A,Other,0.0
-"Chick-fil-A Diet Lemonade, Medium",60.0,0.0,0.0,0.0,0.0,10,16,0.0,12.0,0,Chick-Fil-A,Other,0.0
-"Chick-fil-A Diet Lemonade, Small",45.0,0.0,0.0,0.0,0.0,10,12,0.0,8.0,0,Chick-Fil-A,Other,0.0
-"Chick-fil-A Iced Tea (1/2 Sweet Tea, 1/2 Unsweet Tea), Gallon",790.0,0.0,0.0,0.0,0.0,0,205,0.0,205.0,0,Chick-Fil-A,Other,0.0
-"Chick-fil-A Lemonade, Large",370.0,0.0,0.0,0.0,0.0,0,96,0.0,88.0,1,Chick-Fil-A,Other,0.2702702702702703
-"Chick-fil-A Lemonade, Medium",270.0,0.0,0.0,0.0,0.0,0,69,0.0,63.0,0,Chick-Fil-A,Other,0.0
-"Chick-fil-A Lemonade, Small",190.0,0.0,0.0,0.0,0.0,0,50,0.0,46.0,0,Chick-Fil-A,Other,0.0
-"Coca-Cola, Large",310.0,0.0,0.0,0.0,0.0,105,86,0.0,86.0,0,Chick-Fil-A,Other,0.0
-"Coca-Cola, Medium",190.0,0.0,0.0,0.0,0.0,65,53,0.0,53.0,0,Chick-Fil-A,Other,0.0
-"Coca-Cola, Small",100.0,0.0,0.0,0.0,0.0,35,27,0.0,27.0,0,Chick-Fil-A,Other,0.0
+Chick-Fil-A Diet Lemonade,60.0,0.0,0.0,0.0,0.0,10,16,0.0,12.0,0,Chick-Fil-A,Other,0.0
+Chick-Fil-A Lemonade,270.0,0.0,0.0,0.0,0.0,0,69,0.0,63.0,0,Chick-Fil-A,Other,0.0
+Coca-Cola,190.0,0.0,0.0,0.0,0.0,65,53,0.0,53.0,0,Chick-Fil-A,Other,0.0
 Coffee,0.0,0.0,0.0,0.0,0.0,10,0,0.0,0.0,0,Chick-Fil-A,Other,
-"Dr Pepper, Large",260.0,0.0,0.0,0.0,0.0,105,70,0.0,67.0,0,Chick-Fil-A,Other,0.0
-"Dr Pepper, Medium",180.0,0.0,0.0,0.0,0.0,75,48,0.0,47.0,0,Chick-Fil-A,Other,0.0
-"Dr Pepper, Small",140.0,0.0,0.0,0.0,0.0,55,36,0.0,35.0,0,Chick-Fil-A,Other,0.0
-"Freshly-Brewed Iced Tea Sweetened, Large",160.0,0.0,0.0,0.0,0.0,0,40,0.0,40.0,0,Chick-Fil-A,Other,0.0
-"Freshly-Brewed Iced Tea Sweetened, Medium",100.0,0.0,0.0,0.0,0.0,0,26,0.0,26.0,0,Chick-Fil-A,Other,0.0
-"Freshly-Brewed Iced Tea Sweetened, Small",80.0,0.0,0.0,0.0,0.0,0,20,0.0,20.0,0,Chick-Fil-A,Other,0.0
+Dr Pepper,180.0,0.0,0.0,0.0,0.0,75,48,0.0,47.0,0,Chick-Fil-A,Other,0.0
+Freshly-Brewed Iced Tea Sweetened,100.0,0.0,0.0,0.0,0.0,0,26,0.0,26.0,0,Chick-Fil-A,Other,0.0
+Gallon Chick-Fil-A Diet Lemonade,460.0,1.5,0.0,0.0,0.0,95,126,2.0,91.0,3,Chick-Fil-A,Other,0.6521739130434783
+"Gallon Chick-Fil-A Iced Tea (1/2 Sweet Tea, 1/2 Unsweet Tea)",790.0,0.0,0.0,0.0,0.0,0,205,0.0,205.0,0,Chick-Fil-A,Other,0.0
+"Gallon Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade)",240.0,1.0,0.0,0.0,0.0,50,65,1.0,47.0,1,Chick-Fil-A,Other,0.4166666666666667
 Honest Kids Apple Juice,35.0,0.0,0.0,0.0,0.0,15,9,0.0,8.0,0,Chick-Fil-A,Other,0.0
-Iced Coffee,130.0,2.5,1.5,0.0,10.0,70,23,0.0,23.0,4,Chick-Fil-A,Other,3.076923076923077
-Peppermint Coffee,90.0,0.0,0.0,0.0,0.0,35,23,0.0,13.0,0,Chick-Fil-A,Other,0.0
-Peppermint Iced Coffee,200.0,1.5,1.0,0.0,,70,44,0.0,34.0,3,Chick-Fil-A,Other,1.5
-"Red Flash, Large",320.0,0.0,0.0,0.0,0.0,60,84,0.0,84.0,0,Chick-Fil-A,Other,0.0
-"Red Flash, Medium",200.0,0.0,0.0,0.0,0.0,40,53,0.0,53.0,0,Chick-Fil-A,Other,0.0
-"Red Flash, Small",140.0,0.0,0.0,0.0,0.0,25,37,0.0,37.0,0,Chick-Fil-A,Other,0.0
+Iced Coffee,200.0,4.0,2.5,0.0,20.0,110,34,0.0,34.0,7,Chick-Fil-A,Other,3.5000000000000004
+Large Chick-Fil-A Diet Lemonade,80.0,0.0,0.0,0.0,0.0,15,23,0.0,16.0,0,Chick-Fil-A,Other,0.0
+Large Chick-Fil-A Lemonade,370.0,0.0,0.0,0.0,0.0,0,96,0.0,88.0,1,Chick-Fil-A,Other,0.2702702702702703
+Large Coca-Cola,310.0,0.0,0.0,0.0,0.0,105,86,0.0,86.0,0,Chick-Fil-A,Other,0.0
+Large Dr Pepper,260.0,0.0,0.0,0.0,0.0,105,70,0.0,67.0,0,Chick-Fil-A,Other,0.0
+Large Freshly-Brewed Iced Tea Sweetened,160.0,0.0,0.0,0.0,0.0,0,40,0.0,40.0,0,Chick-Fil-A,Other,0.0
+Large Red Flash,320.0,0.0,0.0,0.0,0.0,60,84,0.0,84.0,0,Chick-Fil-A,Other,0.0
+"Large Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade)",140.0,0.0,0.0,0.0,0.0,5,38,0.0,35.0,0,Chick-Fil-A,Other,0.0
+"Large Sunjoy (1/2 Sweet Tea, 1/2 Lemonade)",280.0,0.0,0.0,0.0,0.0,0,72,0.0,68.0,0,Chick-Fil-A,Other,0.0
+"Large Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade)",35.0,0.0,0.0,0.0,0.0,5,9,0.0,7.0,0,Chick-Fil-A,Other,0.0
+"Large Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade)",140.0,0.0,0.0,0.0,0.0,0,39,0.0,36.0,0,Chick-Fil-A,Other,0.0
+Medium Chick-Fil-A Diet Lemonade,60.0,0.0,0.0,0.0,0.0,10,16,0.0,12.0,0,Chick-Fil-A,Other,0.0
+Medium Chick-Fil-A Lemonade,270.0,0.0,0.0,0.0,0.0,0,69,0.0,63.0,0,Chick-Fil-A,Other,0.0
+Medium Coca-Cola,190.0,0.0,0.0,0.0,0.0,65,53,0.0,53.0,0,Chick-Fil-A,Other,0.0
+Medium Dr Pepper,180.0,0.0,0.0,0.0,0.0,75,48,0.0,47.0,0,Chick-Fil-A,Other,0.0
+Medium Freshly-Brewed Iced Tea Sweetened,100.0,0.0,0.0,0.0,0.0,0,26,0.0,26.0,0,Chick-Fil-A,Other,0.0
+Medium Red Flash,200.0,0.0,0.0,0.0,0.0,40,53,0.0,53.0,0,Chick-Fil-A,Other,0.0
+"Medium Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade)",100.0,0.0,0.0,0.0,0.0,0,25,0.0,24.0,0,Chick-Fil-A,Other,0.0
+"Medium Sunjoy (1/2 Sweet Tea, 1/2 Lemonade)",180.0,0.0,0.0,0.0,0.0,0,45,0.0,43.0,0,Chick-Fil-A,Other,0.0
+"Medium Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade)",20.0,0.0,0.0,0.0,0.0,0,6,0.0,4.0,0,Chick-Fil-A,Other,0.0
+"Medium Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade)",90.0,0.0,0.0,0.0,0.0,0,25,0.0,23.0,0,Chick-Fil-A,Other,0.0
+Pineapple Dragonfruit Beverages,230.0,0.0,0.0,0.0,0.0,15,56,0.0,47.0,0,Chick-Fil-A,Drink,0.0
+Pineapple Dragonfruit Diet Lemonade,80.0,0.0,0.0,0.0,0.0,25,20,0.0,10.0,0,Chick-Fil-A,Other,0.0
+Pineapple Dragonfruit Lemonade,260.0,0.0,0.0,0.0,0.0,15,64,0.0,53.0,0,Chick-Fil-A,Other,0.0
+"Pineapple Dragonfruit Sunjoy (Sweet Tea, Diet Lemonade)",130.0,0.0,0.0,0.0,0.0,20,31,0.0,22.0,0,Chick-Fil-A,Other,0.0
+"Pineapple Dragonfruit Sunjoy (Sweet Tea, Lemonade)",230.0,0.0,0.0,0.0,0.0,15,56,0.0,47.0,0,Chick-Fil-A,Other,0.0
+"Pineapple Dragonfruit Sunjoy (Unsweet Tea, Diet Lemonade)",60.0,0.0,0.0,0.0,0.0,20,14,0.0,6.0,0,Chick-Fil-A,Other,0.0
+"Pineapple Dragonfruit Sunjoy (Unsweet Tea, Lemonade)",160.0,0.0,0.0,0.0,0.0,15,39,0.0,30.0,0,Chick-Fil-A,Other,0.0
+Pineapple Dragonfruit Sweet Tea,180.0,0.0,0.0,0.0,0.0,15,45,0.0,39.0,0,Chick-Fil-A,Other,0.0
+Pineapple Dragonfruit Unsweet Tea,35.0,0.0,0.0,0.0,0.0,15,7,0.0,0.0,0,Chick-Fil-A,Other,0.0
+Red Flash,200.0,0.0,0.0,0.0,0.0,40,53,0.0,53.0,0,Chick-Fil-A,Other,0.0
 Simply Orange,160.0,0.0,0.0,0.0,0.0,10,34,0.0,30.0,2,Chick-Fil-A,Other,1.25
-"Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade), Large",140.0,0.0,0.0,0.0,0.0,5,38,0.0,35.0,0,Chick-Fil-A,Other,0.0
-"Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade), Medium",100.0,0.0,0.0,0.0,0.0,0,25,0.0,24.0,0,Chick-Fil-A,Other,0.0
-"Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade), Small",80.0,0.0,0.0,0.0,0.0,0,20,0.0,19.0,0,Chick-Fil-A,Other,0.0
-"Sunjoy (1/2 Sweet Tea, 1/2 Lemonade), Large",280.0,0.0,0.0,0.0,0.0,0,72,0.0,68.0,0,Chick-Fil-A,Other,0.0
-"Sunjoy (1/2 Sweet Tea, 1/2 Lemonade), Medium",180.0,0.0,0.0,0.0,0.0,0,45,0.0,43.0,0,Chick-Fil-A,Other,0.0
-"Sunjoy (1/2 Sweet Tea, 1/2 Lemonade), Small",120.0,0.0,0.0,0.0,0.0,0,33,0.0,32.0,0,Chick-Fil-A,Other,0.0
-"Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade), Gallon",240.0,1.0,0.0,0.0,0.0,50,65,1.0,47.0,1,Chick-Fil-A,Other,0.4166666666666667
-"Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade), Large",35.0,0.0,0.0,0.0,0.0,5,9,0.0,7.0,0,Chick-Fil-A,Other,0.0
-"Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade), Medium",20.0,0.0,0.0,0.0,0.0,0,6,0.0,4.0,0,Chick-Fil-A,Other,0.0
-"Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade), Small",15.0,0.0,0.0,0.0,0.0,0,4,0.0,3.0,0,Chick-Fil-A,Other,0.0
-"Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade), Large",140.0,0.0,0.0,0.0,0.0,0,39,0.0,36.0,0,Chick-Fil-A,Other,0.0
-"Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade), Medium",90.0,0.0,0.0,0.0,0.0,0,25,0.0,23.0,0,Chick-Fil-A,Other,0.0
-"Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade), Small",60.0,0.0,0.0,0.0,0.0,0,17,0.0,16.0,0,Chick-Fil-A,Other,0.0
-Vanilla Iced Coffee,130.0,2.5,1.5,0.0,10.0,70,22,0.0,21.0,4,Chick-Fil-A,Other,3.076923076923077
+Small Chick-Fil-A Diet Lemonade,45.0,0.0,0.0,0.0,0.0,10,12,0.0,8.0,0,Chick-Fil-A,Other,0.0
+Small Chick-Fil-A Lemonade,190.0,0.0,0.0,0.0,0.0,0,50,0.0,46.0,0,Chick-Fil-A,Other,0.0
+Small Coca-Cola,100.0,0.0,0.0,0.0,0.0,35,27,0.0,27.0,0,Chick-Fil-A,Other,0.0
+Small Dr Pepper,140.0,0.0,0.0,0.0,0.0,55,36,0.0,35.0,0,Chick-Fil-A,Other,0.0
+Small Freshly-Brewed Iced Tea Sweetened,80.0,0.0,0.0,0.0,0.0,0,20,0.0,20.0,0,Chick-Fil-A,Other,0.0
+Small Red Flash,140.0,0.0,0.0,0.0,0.0,25,37,0.0,37.0,0,Chick-Fil-A,Other,0.0
+"Small Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade)",80.0,0.0,0.0,0.0,0.0,0,20,0.0,19.0,0,Chick-Fil-A,Other,0.0
+"Small Sunjoy (1/2 Sweet Tea, 1/2 Lemonade)",120.0,0.0,0.0,0.0,0.0,0,33,0.0,32.0,0,Chick-Fil-A,Other,0.0
+"Small Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade)",15.0,0.0,0.0,0.0,0.0,0,4,0.0,3.0,0,Chick-Fil-A,Other,0.0
+"Small Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade)",60.0,0.0,0.0,0.0,0.0,0,17,0.0,16.0,0,Chick-Fil-A,Other,0.0
+"Sunjoy (1/2 Sweet Tea, 1/2 Diet Lemonade)",100.0,0.0,0.0,0.0,0.0,0,25,0.0,24.0,0,Chick-Fil-A,Other,0.0
+"Sunjoy (1/2 Sweet Tea, 1/2 Lemonade)",180.0,0.0,0.0,0.0,0.0,0,45,0.0,43.0,0,Chick-Fil-A,Other,0.0
+"Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade)",20.0,0.0,0.0,0.0,0.0,0,6,0.0,4.0,0,Chick-Fil-A,Other,0.0
+"Sunjoy (1/2 Unsweet Tea, 1/2 Lemonade)",90.0,0.0,0.0,0.0,0.0,0,25,0.0,23.0,0,Chick-Fil-A,Other,0.0
+Vanilla Iced Coffee,200.0,4.0,2.5,0.0,20.0,110,33,0.0,32.0,7,Chick-Fil-A,Other,3.5000000000000004
 Barbeque Sauce,45.0,0.0,0.0,0.0,0.0,200,11,0.0,9.0,0,Chick-Fil-A,Other,0.0
-Chick-fil-A Sauce,140.0,13.0,2.0,0.0,10.0,170,6,0.0,6.0,0,Chick-Fil-A,Other,0.0
+Chick-Fil-A Sauce,140.0,13.0,2.0,0.0,10.0,170,6,0.0,6.0,0,Chick-Fil-A,Other,0.0
 Garden Herb Ranch Sauce,140.0,15.0,2.5,0.0,10.0,220,1,0.0,1.0,1,Chick-Fil-A,Other,0.7142857142857143
 Honey Mustard Sauce,50.0,0.0,0.0,0.0,0.0,160,11,0.0,10.0,0,Chick-Fil-A,Other,0.0
-Honey Roasted Bbq Sauce,60.0,5.0,1.0,0.0,,75,3,0.0,2.0,0,Chick-Fil-A,Other,0.0
+Honey Roasted BBQ Sauce,60.0,5.0,1.0,0.0,,75,3,0.0,2.0,0,Chick-Fil-A,Other,0.0
 Polynesian Sauce,110.0,6.0,1.0,0.0,0.0,210,14,0.0,13.0,0,Chick-Fil-A,Other,0.0
 Sweet & Spicy Sriracha Sauce,45.0,0.0,0.0,0.0,0.0,380,11,0.0,10.0,0,Chick-Fil-A,Other,0.0
 Zesty Buffalo Sauce,25.0,2.5,0.0,0.0,,570,1,0.0,0.0,0,Chick-Fil-A,Other,0.0
@@ -196,84 +230,103 @@ Garden Herb Ranch Dressing,280.0,29.0,5.0,0.0,25.0,440,2,0.0,1.0,1,Chick-Fil-A,O
 Light Balsamic Vinaigrette Dressing,80.0,4.0,0.5,0.0,0.0,360,10,0.0,9.0,0,Chick-Fil-A,Other,0.0
 Light Italian Dressing,25.0,1.0,0.0,0.0,0.0,470,3,0.0,2.0,0,Chick-Fil-A,Other,0.0
 Zesty Apple Cider Vinaigrette Dressing,230.0,19.0,3.0,0.0,0.0,450,16,0.0,14.0,0,Chick-Fil-A,Other,0.0
+Buttery White Bun,180.0,6.0,1.0,0.0,0.0,240,29,1.0,4.0,5,Chick-Fil-A,Other,2.7777777777777777
 Gluten Free Bun,180.0,3.5,0.0,0.0,0.0,400,37,2.0,7.0,3,Chick-Fil-A,Other,1.6666666666666667
 Multigrain Brioche Bun,210.0,4.5,1.0,0.0,0.0,310,38,3.0,7.0,7,Chick-Fil-A,Other,3.3333333333333335
-"White Bun, Buttered",180.0,6.0,1.0,0.0,0.0,240,29,1.0,4.0,5,Chick-Fil-A,Other,2.7777777777777777
-"White Bun, Unbuttered",150.0,1.0,0.0,0.0,0.0,240,28,1.0,4.0,5,Chick-Fil-A,Other,3.3333333333333335
+White Bun (Unbuttered),150.0,1.0,0.0,0.0,0.0,240,28,1.0,4.0,5,Chick-Fil-A,Other,3.3333333333333335
 Bacon,50.0,3.5,1.5,0.0,10.0,210,0,0.0,0.0,4,Chick-Fil-A,Other,8.0
-Chick-fil-A Breakfast Filet,160.0,8.0,1.5,0.0,45.0,750,8,0.0,2.0,15,Chick-Fil-A,Other,9.375
-Chick-fil-A Filet,260.0,12.0,2.5,0.0,75.0,1170,13,0.0,2.0,25,Chick-Fil-A,Other,9.615384615384617
+Chick-Fil-A Breakfast Filet,160.0,8.0,1.5,0.0,45.0,750,8,0.0,2.0,15,Chick-Fil-A,Other,9.375
+Chick-Fil-A Filet,250.0,12.0,2.5,0.0,70.0,1120,12,0.0,1.0,24,Chick-Fil-A,Other,9.6
 Grilled Breakfast Filet,60.0,1.0,0.0,0.0,40.0,420,0,0.0,0.0,13,Chick-Fil-A,Other,21.666666666666668
 Grilled Filet,110.0,2.0,0.0,0.0,70.0,370,1,0.0,1.0,21,Chick-Fil-A,Other,19.090909090909093
 Sausage,240.0,22.0,8.0,0.0,35.0,430,1,0.0,0.0,11,Chick-Fil-A,Other,4.583333333333333
 Spicy Breakfast Filet,130.0,6.0,1.5,0.0,35.0,710,6,0.0,1.0,14,Chick-Fil-A,Other,10.76923076923077
-Blue Cheese Crumbles,30.0,2.5,1.5,0.0,10.0,110,0,0.0,0.0,2,Chick-Fil-A,Other,6.666666666666667
-Chili Lime Pepitas,80.0,7.0,1.0,0.0,0.0,50,2,1.0,0.0,4,Chick-Fil-A,Other,5.0
-Crispy Bell Peppers,80.0,6.0,0.0,0.0,0.0,75,6,0.0,0.0,1,Chick-Fil-A,Other,1.25
-Seasoned Tortilla Strips,70.0,4.0,0.0,0.0,0.0,55,8,1.0,0.0,1,Chick-Fil-A,Other,1.4285714285714286
-American Cheese,50.0,4.5,2.5,0.0,15.0,230,1,0.0,0.0,3,Chick-Fil-A,Other,6.0
-Bacon Topping,50.0,3.5,1.5,0.0,10.0,210,0,0.0,0.0,4,Chick-Fil-A,Other,8.0
-Colby Jack Cheese,80.0,7.0,4.0,0.0,20.0,140,0,0.0,0.0,5,Chick-Fil-A,Other,6.25
-Lettuce,5.0,0.0,0.0,0.0,0.0,5,1,0.0,0.0,0,Chick-Fil-A,Other,0.0
-Pepper Jack Cheese,80.0,6.0,4.0,0.0,20.0,140,0,0.0,0.0,4,Chick-Fil-A,Other,5.0
-Tomato,5.0,0.0,0.0,0.0,0.0,0,1,0.0,1.0,0,Chick-Fil-A,Other,0.0
+Blue Cheese Crumbles Salad Topping,30.0,2.5,1.5,0.0,10.0,110,0,0.0,0.0,2,Chick-Fil-A,Salad,6.666666666666667
+Chili Lime Pepitas Salad Topping,80.0,7.0,1.0,0.0,0.0,50,2,1.0,0.0,4,Chick-Fil-A,Salad,5.0
+Crispy Bell Peppers Salad Topping,80.0,6.0,0.0,0.0,0.0,75,6,0.0,0.0,1,Chick-Fil-A,Salad,1.25
+Harvest Nut Granola Salad Topping,70.0,2.0,0.0,0.0,0.0,35,10,0.0,4.0,1,Chick-Fil-A,Salad,1.4285714285714286
+Roasted Nut Blend Salad Topping,70.0,6.0,0.5,0.0,0.0,0,2,1.0,1.0,1,Chick-Fil-A,Salad,1.4285714285714286
+Seasoned Tortilla Strips Salad Topping,70.0,4.0,0.0,0.0,0.0,55,8,1.0,0.0,1,Chick-Fil-A,Salad,1.4285714285714286
+American Cheese Sandwich Topping,50.0,4.5,2.5,0.0,15.0,230,1,0.0,0.0,3,Chick-Fil-A,Sandwich,6.0
+Bacon Sandwich Topping,50.0,3.5,1.5,0.0,10.0,210,0,0.0,0.0,4,Chick-Fil-A,Sandwich,8.0
+Colby Jack Cheese Sandwich Topping,80.0,7.0,4.0,0.0,20.0,140,0,0.0,0.0,5,Chick-Fil-A,Sandwich,6.25
+Lettuce Sandwich Topping,5.0,0.0,0.0,0.0,0.0,5,1,0.0,0.0,0,Chick-Fil-A,Sandwich,0.0
+Pepper Jack Cheese Sandwich Topping,80.0,6.0,4.0,0.0,20.0,140,0,0.0,0.0,4,Chick-Fil-A,Sandwich,5.0
+Tomato Sandwich Topping,5.0,0.0,0.0,0.0,0.0,0,1,0.0,1.0,0,Chick-Fil-A,Sandwich,0.0
 Saltines,50.0,1.0,0.0,0.0,0.0,180,9,0.0,0.0,1,Chick-Fil-A,Other,2.0
-"Chick-fil-A Cool Wrap Tray, Large",170.0,7.0,2.0,0.0,45.0,450,15,6.0,1.0,21,Chick-Fil-A,Wrap,12.352941176470589
-"Chick-fil-A Cool Wrap Tray, Medium",170.0,7.0,2.0,0.0,45.0,450,15,6.0,1.0,21,Chick-Fil-A,Wrap,12.352941176470589
-"Chick-fil-A Cool Wrap Tray, Small",170.0,7.0,2.0,0.0,45.0,450,15,6.0,1.0,21,Chick-Fil-A,Wrap,12.352941176470589
-"Chilled Chick-fil-A Nuggets Tray, Large",30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
-"Chilled Chick-fil-A Nuggets Tray, Medium",30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
-"Chilled Chick-fil-A Nuggets Tray, Small",30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
-"Chilled Chick-n-Strips Tray, Large",110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
-"Chilled Chick-n-Strips Tray, Medium",110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
-"Chilled Chick-n-Strips Tray, Small",110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
-"Chilled Grilled Chicken Sub Sandwich Tray, Large",220.0,6.0,2.5,0.0,45.0,490,25,2.0,4.0,18,Chick-Fil-A,Chicken,8.181818181818182
-"Chilled Grilled Chicken Sub Sandwich Tray, Medium",220.0,6.0,2.5,0.0,45.0,490,25,2.0,4.0,18,Chick-Fil-A,Chicken,8.181818181818182
-"Chilled Grilled Chicken Sub Sandwich Tray, Small",220.0,6.0,2.5,0.0,45.0,490,25,2.0,4.0,18,Chick-Fil-A,Chicken,8.181818181818182
-"Chocolate Chunk Cookie And Chocolate Fudge Brownie Tray, Large",280.0,14.0,7.0,0.0,25.0,150,36,2.0,22.0,3,Chick-Fil-A,Other,1.0714285714285714
-"Chocolate Chunk Cookie And Chocolate Fudge Brownie Tray, Small",280.0,14.0,7.0,0.0,25.0,150,36,2.0,22.0,3,Chick-Fil-A,Other,1.0714285714285714
-"Chocolate Chunk Cookie Tray, Large",370.0,17.0,9.0,0.0,15.0,230,49,3.0,26.0,5,Chick-Fil-A,Other,1.3513513513513513
-"Chocolate Chunk Cookie Tray, Small",370.0,17.0,9.0,0.0,15.0,230,49,3.0,26.0,5,Chick-Fil-A,Other,1.3513513513513513
-"Chocolate Fudge Brownie Tray, Large",190.0,10.0,4.0,0.0,35.0,70,23,1.0,18.0,2,Chick-Fil-A,Other,1.0526315789473684
-"Chocolate Fudge Brownie Tray, Small",190.0,10.0,4.0,0.0,35.0,70,23,1.0,18.0,2,Chick-Fil-A,Other,1.0526315789473684
-"Fruit Tray, Small",780.0,0.0,0.0,0.0,0.0,0,182,29.0,134.0,8,Chick-Fil-A,Other,1.0256410256410255
-"Garden Salad Tray, Large",630.0,36.0,23.0,1.0,110.0,850,41,17.0,21.0,38,Chick-Fil-A,Salad,6.031746031746032
-"Garden Salad Tray, Small",310.0,18.0,11.0,0.5,55.0,420,20,9.0,11.0,19,Chick-Fil-A,Salad,6.129032258064516
-Grilled Chicken Bundle,530.0,21.0,8.0,0.0,135.0,1390,37,3.0,9.0,49,Chick-Fil-A,Chicken,9.245283018867925
-"Hot Chick-fil-A Nuggets Tray, Large",30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
-"Hot Chick-fil-A Nuggets Tray, Medium",30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
-"Hot Chick-fil-A Nuggets Tray, Small",30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
-"Hot Chick-n-Strips Tray, Large",110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
-"Hot Chick-n-Strips Tray, Medium",110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
-"Hot Chick-n-Strips Tray, Small",110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
-"Southwest Veggie Wrap Tray, Large",170.0,8.0,3.0,0.0,10.0,310,17,8.0,2.0,13,Chick-Fil-A,Wrap,7.647058823529412
-"Southwest Veggie Wrap Tray, Medium",170.0,8.0,3.0,0.0,10.0,310,17,8.0,2.0,13,Chick-Fil-A,Wrap,7.647058823529412
-"Southwest Veggie Wrap Tray, Small",170.0,8.0,3.0,0.0,10.0,310,17,8.0,2.0,13,Chick-Fil-A,Wrap,7.647058823529412
-"Spicy Chilled Grilled Chicken Sub Sandwich Tray, Large",220.0,6.0,2.5,0.0,40.0,660,25,2.0,5.0,16,Chick-Fil-A,Chicken,7.2727272727272725
-"Spicy Chilled Grilled Chicken Sub Sandwich Tray, Medium",220.0,6.0,2.5,0.0,40.0,660,25,2.0,5.0,16,Chick-Fil-A,Chicken,7.2727272727272725
-"Spicy Chilled Grilled Chicken Sub Sandwich Tray, Small",220.0,6.0,2.5,0.0,40.0,660,25,2.0,5.0,16,Chick-Fil-A,Chicken,7.2727272727272725
-"Spicy Cool Wrap Tray, Large",170.0,7.0,2.0,0.0,40.0,630,15,7.0,2.0,20,Chick-Fil-A,Wrap,11.76470588235294
-"Spicy Cool Wrap Tray, Medium",170.0,7.0,2.0,0.0,40.0,630,15,7.0,2.0,20,Chick-Fil-A,Wrap,11.76470588235294
-"Spicy Cool Wrap Tray, Small",170.0,7.0,2.0,0.0,40.0,630,15,7.0,2.0,20,Chick-Fil-A,Wrap,11.76470588235294
-"Catering, Chick-fil-A Chicken Sandwich",420.0,18.0,3.5,0.0,70.0,1460,41,1.0,6.0,29,Chick-Fil-A,Chicken,6.904761904761905
-"Catering, Chick-fil-A Nuggets, 5 ct",160.0,7.0,1.5,0.0,50.0,760,7,0.0,1.0,17,Chick-Fil-A,Other,10.625
-"Catering, Chick-fil-A Nuggets, 8 ct",250.0,11.0,2.5,0.0,85.0,1210,11,0.0,1.0,27,Chick-Fil-A,Other,10.8
-"Catering, Chick-fil-A Nuggets, 12 ct",380.0,17.0,3.5,0.0,125.0,1820,16,0.0,1.0,40,Chick-Fil-A,Other,10.526315789473683
-"Catering, Chilled Grilled Chicken Sub Sandwich",440.0,12.0,5.0,0.0,90.0,980,49,5.0,9.0,36,Chick-Fil-A,Chicken,8.181818181818182
-"Catering, Spicy Chicken Sandwich",450.0,19.0,4.0,0.0,65.0,1730,45,1.0,6.0,28,Chick-Fil-A,Chicken,6.222222222222222
-"Catering, Spicy Chilled Grilled Chicken Sub Sandwich",430.0,12.0,5.0,0.0,85.0,1320,50,5.0,9.0,33,Chick-Fil-A,Chicken,7.674418604651163
-"Catering, 1% Chocolate Milk",140.0,2.0,1.5,0.0,10.0,160,23,0.0,21.0,7,Chick-Fil-A,Other,5.0
-"Catering, 1% Milk",90.0,2.0,1.5,0.0,10.0,105,10,0.0,10.0,7,Chick-Fil-A,Other,7.777777777777778
-"Catering, Bottled Diet Lemonade",60.0,0.0,0.0,0.0,0.0,10,17,0.0,12.0,0,Chick-Fil-A,Other,0.0
-"Catering, Bottled Lemonade",280.0,0.0,0.0,0.0,0.0,10,73,0.0,69.0,0,Chick-Fil-A,Other,0.0
-"Catering, Bottled Sweet Tea",190.0,0.0,0.0,0.0,0.0,15,48,0.0,48.0,0,Chick-Fil-A,Other,0.0
-"Catering, Bottled Unsweet Tea",0.0,0.0,0.0,0.0,0.0,15,0,0.0,0.0,0,Chick-Fil-A,Other,
-"Catering, Chick-fil-A Diet Lemonade, Gallon",460.0,1.5,0.0,0.0,0.0,95,126,2.0,91.0,3,Chick-Fil-A,Other,0.6521739130434783
-"Catering, Chick-fil-A Iced Tea (1/2 Sweet Tea, 1/2 Unsweet Tea), Gallon",790.0,0.0,0.0,0.0,0.0,0,205,0.0,205.0,0,Chick-Fil-A,Other,0.0
-"Catering, Coffee",0.0,0.0,0.0,0.0,0.0,80,0,0.0,0.0,0,Chick-Fil-A,Other,
-"Catering, Honest Kids Apple Juice",35.0,0.0,0.0,0.0,0.0,15,9,0.0,8.0,0,Chick-Fil-A,Other,0.0
-"Catering, Simply Orange",160.0,0.0,0.0,0.0,0.0,10,34,0.0,30.0,2,Chick-Fil-A,Other,1.25
-"Catering, Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade), Gallon",240.0,1.0,0.0,0.0,0.0,50,65,1.0,47.0,1,Chick-Fil-A,Other,0.4166666666666667
+30 Count Chick-Fil-A Nuggets Heart-Shaped Tray  (Per Tray),950.0,43.0,9.0,0.0,315.0,4550,41,0.0,4.0,100,Chick-Fil-A,Other,10.526315789473683
+Chick-Fil-A Cool Wrap Trays,170.0,7.0,2.0,0.0,45.0,450,15,6.0,1.0,21,Chick-Fil-A,Wrap,12.352941176470589
+Chilled Chick-Fil-A Nugget Trays,30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
+Chilled Chick-N-Strips Trays,110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
+Chilled Grilled Chicken Sub Sandwich Tray,220.0,6.0,2.5,0.0,45.0,490,25,2.0,4.0,18,Chick-Fil-A,Chicken,8.181818181818182
+Chocolate Chunk Cookie Tray,370.0,17.0,9.0,0.0,15.0,230,49,3.0,26.0,5,Chick-Fil-A,Other,1.3513513513513513
+Chocolate Fudge Brownie Tray,190.0,10.0,4.0,0.0,35.0,70,23,1.0,18.0,2,Chick-Fil-A,Other,1.0526315789473684
+Cookie & Brownie Tray,280.0,14.0,7.0,0.0,25.0,150,36,2.0,22.0,3,Chick-Fil-A,Other,1.0714285714285714
+Fruit Tray,780.0,0.0,0.0,0.0,0.0,0,182,29.0,134.0,8,Chick-Fil-A,Other,1.0256410256410255
+Garden Salad Tray,310.0,18.0,11.0,0.5,55.0,420,20,9.0,11.0,19,Chick-Fil-A,Salad,6.129032258064516
+Grilled Chicken Bundle  (Per Sandwich),530.0,21.0,8.0,0.0,135.0,1390,37,3.0,9.0,49,Chick-Fil-A,Chicken,9.245283018867925
+Hot Chick-Fil-A Nugget Trays,30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
+Hot Chick-N-Strips Trays,110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
+Large Chick-Fil-A Cool Wrap Tray  (Per Half Wrap),170.0,7.0,2.0,0.0,45.0,450,15,6.0,1.0,21,Chick-Fil-A,Wrap,12.352941176470589
+Large Chilled Chick-Fil-A Nuggets Tray  (Per Nugget),30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
+Large Chilled Chick-N-Strips (Cooked & Chilled For Later) Tray  (Per Chick-N-Strip),110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
+Large Chilled Grilled Chicken Sub Sandwich Tray  (Per Half Sandwich),220.0,6.0,2.5,0.0,45.0,490,25,2.0,4.0,18,Chick-Fil-A,Chicken,8.181818181818182
+Large Chocolate Chunk Cookie And Chocolate Fudge Brownie Tray  (Per Cookie/ Per Brownie Half),280.0,14.0,7.0,0.0,25.0,150,36,2.0,22.0,3,Chick-Fil-A,Other,1.0714285714285714
+Large Chocolate Chunk Cookie Tray  (Per Cookie),370.0,17.0,9.0,0.0,15.0,230,49,3.0,26.0,5,Chick-Fil-A,Other,1.3513513513513513
+Large Chocolate Fudge Brownie Tray  (Per Brownie Half),190.0,10.0,4.0,0.0,35.0,70,23,1.0,18.0,2,Chick-Fil-A,Other,1.0526315789473684
+Large Garden Salad Tray  (Per Tray),630.0,36.0,23.0,1.0,110.0,850,41,17.0,21.0,38,Chick-Fil-A,Salad,6.031746031746032
+Large Hot Chick-Fil-A Nuggets Tray  (Per Nugget),30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
+Large Hot Chick-N-Strips Tray  (Per Chick-N-Strip),110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
+Large Southwest Veggie Wrap Tray  (Per Half Wrap),170.0,8.0,3.0,0.0,10.0,310,17,8.0,2.0,13,Chick-Fil-A,Wrap,7.647058823529412
+Large Spicy Chilled Grilled Chicken Sub Sandwich Tray  (Per Half Sandwich),220.0,6.0,2.5,0.0,40.0,660,25,2.0,5.0,16,Chick-Fil-A,Chicken,7.2727272727272725
+Large Spicy Cool Wrap Tray  (Per Half Wrap),170.0,7.0,2.0,0.0,40.0,630,15,7.0,2.0,20,Chick-Fil-A,Wrap,11.76470588235294
+Medium Chick-Fil-A Cool Wrap Tray  (Per Half Wrap),170.0,7.0,2.0,0.0,45.0,450,15,6.0,1.0,21,Chick-Fil-A,Wrap,12.352941176470589
+Medium Chilled Chick-Fil-A Nuggets Tray  (Per Nugget),30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
+Medium Chilled Chick-N-Strips (Cooked & Chilled For Later) Tray  (Per Chick-N-Strip),110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
+Medium Chilled Grilled Chicken Sub Sandwich Tray  (Per Half Sandwich),220.0,6.0,2.5,0.0,45.0,490,25,2.0,4.0,18,Chick-Fil-A,Chicken,8.181818181818182
+Medium Hot Chick-Fil-A Nuggets Tray  (Per Nugget),30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
+Medium Hot Chick-N-Strips Tray  (Per Chick-N-Strip),110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
+Medium Southwest Veggie Wrap Tray  (Per Half Wrap),170.0,8.0,3.0,0.0,10.0,310,17,8.0,2.0,13,Chick-Fil-A,Wrap,7.647058823529412
+Medium Spicy Chilled Grilled Chicken Sub Sandwich Tray  (Per Half Sandwich),220.0,6.0,2.5,0.0,40.0,660,25,2.0,5.0,16,Chick-Fil-A,Chicken,7.2727272727272725
+Medium Spicy Cool Wrap Tray  (Per Half Wrap),170.0,7.0,2.0,0.0,40.0,630,15,7.0,2.0,20,Chick-Fil-A,Wrap,11.76470588235294
+Small Chick-Fil-A Cool Wrap Tray  (Per Half Wrap),170.0,7.0,2.0,0.0,45.0,450,15,6.0,1.0,21,Chick-Fil-A,Wrap,12.352941176470589
+Small Chilled Chick-Fil-A Nuggets Tray  (Per Nugget),30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
+Small Chilled Chick-N-Strips (Cooked & Chilled For Later) Tray  (Per Chick-N-Strip),110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
+Small Chilled Grilled Chicken Sub Sandwich Tray  (Per Half Sandwich),220.0,6.0,2.5,0.0,45.0,490,25,2.0,4.0,18,Chick-Fil-A,Chicken,8.181818181818182
+Small Chocolate Chunk Cookie And Chocolate Fudge Brownie Tray  (Per Cookie/ Per Brownie Half),280.0,14.0,7.0,0.0,25.0,150,36,2.0,22.0,3,Chick-Fil-A,Other,1.0714285714285714
+Small Chocolate Chunk Cookie Tray  (Per Cookie),370.0,17.0,9.0,0.0,15.0,230,49,3.0,26.0,5,Chick-Fil-A,Other,1.3513513513513513
+Small Chocolate Fudge Brownie Tray  (Per Brownie Half),190.0,10.0,4.0,0.0,35.0,70,23,1.0,18.0,2,Chick-Fil-A,Other,1.0526315789473684
+Small Fruit Tray  (Per Tray),780.0,0.0,0.0,0.0,0.0,0,182,29.0,134.0,8,Chick-Fil-A,Other,1.0256410256410255
+Small Garden Salad Tray  (Per Tray),310.0,18.0,11.0,0.5,55.0,420,20,9.0,11.0,19,Chick-Fil-A,Salad,6.129032258064516
+Small Hot Chick-Fil-A Nuggets Tray  (Per Nugget),30.0,1.5,0.0,0.0,10.0,150,1,0.0,0.0,3,Chick-Fil-A,Other,10.0
+Small Hot Chick-N-Strips Tray  (Per Chick-N-Strip),110.0,5.0,1.0,0.0,25.0,300,6,0.0,1.0,10,Chick-Fil-A,Other,9.090909090909092
+Small Southwest Veggie Wrap Tray  (Per Half Wrap),170.0,8.0,3.0,0.0,10.0,310,17,8.0,2.0,13,Chick-Fil-A,Wrap,7.647058823529412
+Small Spicy Chilled Grilled Chicken Sub Sandwich Tray  (Per Half Sandwich),220.0,6.0,2.5,0.0,40.0,660,25,2.0,5.0,16,Chick-Fil-A,Chicken,7.2727272727272725
+Small Spicy Cool Wrap Tray  (Per Half Wrap),170.0,7.0,2.0,0.0,40.0,630,15,7.0,2.0,20,Chick-Fil-A,Wrap,11.76470588235294
+Smokehouse BBQ Bacon Bundle (Per Sandwich),520.0,18.0,8.0,0.0,110.0,1350,53,3.0,17.0,37,Chick-Fil-A,Sandwich,7.115384615384615
+Southwest Veggie Wrap Trays,170.0,8.0,3.0,0.0,10.0,310,17,8.0,2.0,13,Chick-Fil-A,Wrap,7.647058823529412
+Spicy Chilled Grilled Chicken Sub Sandwich Tray,220.0,6.0,2.5,0.0,40.0,660,25,2.0,5.0,16,Chick-Fil-A,Chicken,7.2727272727272725
+Spicy Cool Wrap Trays,170.0,7.0,2.0,0.0,40.0,630,15,7.0,2.0,20,Chick-Fil-A,Wrap,11.76470588235294
+Catering 5 Count Chick-Fil-A Nuggets,160.0,7.0,1.5,0.0,50.0,760,7,0.0,1.0,17,Chick-Fil-A,Other,10.625
+Catering 8 Count Chick-Fil-A Nuggets,250.0,11.0,2.5,0.0,85.0,1210,11,0.0,1.0,27,Chick-Fil-A,Other,10.8
+Catering 12 Count Chick-Fil-A Nuggets,380.0,17.0,3.5,0.0,125.0,1820,16,0.0,1.0,40,Chick-Fil-A,Other,10.526315789473683
+Catering Chick-Fil-A Chicken Sandwich,420.0,18.0,3.5,0.0,70.0,1460,41,1.0,6.0,29,Chick-Fil-A,Chicken,6.904761904761905
+Catering Chick-Fil-A Nuggets,250.0,11.0,2.5,0.0,85.0,1210,11,0.0,1.0,27,Chick-Fil-A,Other,10.8
+Catering Chilled Grilled Chicken Sub Sandwich,440.0,12.0,5.0,0.0,90.0,980,49,5.0,9.0,36,Chick-Fil-A,Chicken,8.181818181818182
+Catering Spicy Chicken Sandwich,450.0,19.0,4.0,0.0,65.0,1730,45,1.0,6.0,28,Chick-Fil-A,Chicken,6.222222222222222
+Catering Spicy Chilled Grilled Chicken Sub Sandwich,440.0,12.0,5.0,0.0,85.0,1330,50,5.0,9.0,34,Chick-Fil-A,Chicken,7.727272727272727
+Catering 1% Chocolate Milk,140.0,2.0,1.5,0.0,10.0,160,23,0.0,21.0,7,Chick-Fil-A,Other,5.0
+Catering 1% Milk,90.0,2.0,1.5,0.0,10.0,105,10,0.0,10.0,7,Chick-Fil-A,Other,7.777777777777778
+Catering Bottled Diet Lemonade,60.0,0.0,0.0,0.0,0.0,10,17,0.0,12.0,0,Chick-Fil-A,Other,0.0
+Catering Bottled Lemonade,280.0,0.0,0.0,0.0,0.0,10,73,0.0,69.0,0,Chick-Fil-A,Other,0.0
+Catering Bottled Sweet Tea,190.0,0.0,0.0,0.0,0.0,15,48,0.0,48.0,0,Chick-Fil-A,Other,0.0
+Catering Bottled Unsweet Tea,0.0,0.0,0.0,0.0,0.0,15,0,0.0,0.0,0,Chick-Fil-A,Other,
+Catering Coffee,0.0,0.0,0.0,0.0,0.0,80,0,0.0,0.0,0,Chick-Fil-A,Other,
+Catering Gallon Chick-Fil-A Diet Lemonade,460.0,1.5,0.0,0.0,0.0,95,126,2.0,91.0,3,Chick-Fil-A,Other,0.6521739130434783
+"Catering Gallon Chick-Fil-A Iced Tea (1/2 Sweet Tea, 1/2 Unsweet Tea)",790.0,0.0,0.0,0.0,0.0,0,205,0.0,205.0,0,Chick-Fil-A,Other,0.0
+"Catering Gallon Sunjoy (1/2 Unsweet Tea, 1/2 Diet Lemonade)",240.0,1.0,0.0,0.0,0.0,50,65,1.0,47.0,1,Chick-Fil-A,Other,0.4166666666666667
+Catering Honest Kids Apple Juice,35.0,0.0,0.0,0.0,0.0,15,9,0.0,8.0,0,Chick-Fil-A,Other,0.0
+Catering Simply Orange,160.0,0.0,0.0,0.0,0.0,10,34,0.0,30.0,2,Chick-Fil-A,Other,1.25
 3 Piece French Toast Sticks,350.0,12.0,2.0,0.0,0.0,220,57,1.0,27.0,4,Burger King,Other,1.1428571428571428
 5 Piece French Toast Sticks,520.0,19.0,4.0,0.0,0.0,350,79,2.0,33.0,6,Burger King,Other,1.153846153846154
 "Bacon, Egg, & Cheese Biscuit",450.0,30.0,14.0,1.0,235.0,1580,33,1.0,4.0,17,Burger King,Other,3.7777777777777777

@@ -1,21 +1,21 @@
-Item,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Total Carbohydrates (g),Dietary Fiber (g),Sugars (g),Protein (g),Chain,Protein per 100 Cal,Category,Size,Protein Calories,Fat Calories,Sugar Calories,Calculated Total Calories,Calorie Difference,Percentage Difference
-Grilled Breakfast Filet,60.0,1.0,0.0,0.0,40.0,420,0,0.0,0.0,13,Chick-Fil-A,21.666666666666668,['Chicken'],,52,9.0,0.0,61.0,1.0,0.0166666666666666
-"Grilled Nuggets, 5 ct",80.0,2.0,0.0,0.0,55.0,270,1,0.0,0.0,16,Chick-Fil-A,20.0,['Chicken'],,64,18.0,0.0,82.0,2.0,0.025
-"Kids Grilled Nuggets, 5 ct",80.0,2.0,0.0,0.0,55.0,270,1,0.0,0.0,16,Chick-Fil-A,20.0,['Chicken'],,64,18.0,0.0,82.0,2.0,0.025
-Grilled Chicken,80.0,2.0,2.0,0.0,50.0,210,1,0.0,1.0,16,Subway,20.0,['Chicken'],,64,18.0,4.0,86.0,6.0,0.075
-"Grilled Nuggets, 8 ct",130.0,3.0,0.5,0.0,85.0,440,1,0.0,1.0,25,Chick-Fil-A,19.230769230769234,['Chicken'],,100,27.0,4.0,131.0,1.0,0.0076923076923076
-"Grilled Nuggets, 30 ct",510.0,11.0,3.0,0.0,335.0,1710,4,1.0,3.0,98,Chick-Fil-A,19.215686274509807,['Chicken'],,392,99.0,12.0,503.0,-7.0,-0.0137254901960784
-Grilled Filet,110.0,2.0,0.0,0.0,70.0,370,1,0.0,1.0,21,Chick-Fil-A,19.090909090909093,['Chicken'],,84,18.0,4.0,106.0,-4.0,-0.0363636363636363
-"Grilled Nuggets, 12 ct",200.0,4.5,1.0,0.0,130.0,660,2,0.0,1.0,38,Chick-Fil-A,19.0,"['Combo', 'Chicken']",,152,40.5,4.0,196.5,-3.5,-0.0175
-"Grilled Chicken, Buffalo",90.0,2.0,1.0,0.0,50.0,900,2,0.0,1.0,17,Subway,18.88888888888889,['Chicken'],,68,18.0,4.0,90.0,0.0,0.0
-Kentucky Grilled Chicken® Breast,210.0,7.0,2.0,0.0,130.0,710,0,0.0,0.0,38,Kfc,18.095238095238095,['Chicken'],,152,63.0,0.0,215.0,5.0,0.0238095238095238
-Grilled Chicken Protein Bowl,200.0,4.0,2.0,0.0,100.0,480,9,3.0,5.0,35,Subway,17.5,"['Combo', 'Chicken']",,140,36.0,20.0,196.0,-4.0,-0.02
-Rotisserie-Style Chicken,90.0,4.0,1.0,0.0,50.0,400,0,0.0,0.0,15,Subway,16.666666666666664,['Chicken'],,60,36.0,0.0,96.0,6.0,0.0666666666666666
-Roast Beef Protein Bowl,210.0,4.0,1.0,0.0,70.0,920,12,3.0,7.0,33,Subway,15.714285714285714,['Combo'],,132,36.0,28.0,196.0,-14.0,-0.0666666666666666
-Oven Roasted Turkey Protein Bowl,150.0,4.0,1.0,1.0,50.0,970,8,3.0,5.0,23,Subway,15.333333333333332,['Combo'],,92,36.0,20.0,148.0,-2.0,-0.0133333333333333
-Grilled Chicken Salad,130.0,3.0,1.0,0.0,50.0,280,10,4.0,5.0,19,Subway,14.615384615384617,"['Chicken', 'Salad']",,76,27.0,20.0,123.0,-7.0,-0.0538461538461538
-Rotisserie-Style Chicken Protein Bowl,220.0,8.0,3.0,0.0,105.0,810,8,3.0,4.0,31,Subway,14.09090909090909,"['Combo', 'Chicken']",,124,72.0,16.0,212.0,-8.0,-0.0363636363636363
-Oven Roasted Turkey & Ham Protein Bowl,160.0,4.0,1.0,0.0,55.0,1010,10,3.0,6.0,22,Subway,13.750000000000002,['Combo'],,88,36.0,24.0,148.0,-12.0,-0.075
-Kentucky Grilled Chicken® Drumstick,80.0,4.0,1.0,0.0,55.0,220,0,0.0,0.0,11,Kfc,13.750000000000002,['Chicken'],,44,36.0,0.0,80.0,0.0,0.0
-Kentucky Grilled Chicken® Whole Wing,70.0,3.0,1.0,0.0,45.0,180,0,0.0,0.0,9,Kfc,12.857142857142856,['Chicken'],,36,27.0,0.0,63.0,-7.0,-0.1
-Oven Roasted Turkey Salad,110.0,3.0,0.0,0.0,25.0,530,10,4.0,5.0,14,Subway,12.727272727272727,['Salad'],,56,27.0,20.0,103.0,-7.0,-0.0636363636363636
+Item,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Total Carbohydrates (g),Dietary Fiber (g),Sugars (g),Protein (g),Chain,category,Protein per 100 Cal,Category,Size,Protein Calories,Fat Calories,Sugar Calories,Calculated Total Calories,Calorie Difference,Percentage Difference
+Grilled Breakfast Filet,60.0,1.0,0.0,0.0,40.0,420,0,0.0,0.0,13,Chick-Fil-A,Other,21.666666666666668,['Chicken'],,52,9.0,0.0,61.0,1.0,0.0166666666666666
+Grilled Chicken,80.0,2.0,2.0,0.0,50.0,210,1,0.0,1.0,16,Subway,Chicken,20.0,['Chicken'],,64,18.0,4.0,86.0,6.0,0.075
+Kids 5 Count Grilled Nuggets,80.0,2.0,0.0,0.0,55.0,270,1,0.0,0.0,16,Chick-Fil-A,Other,20.0,['Chicken'],,64,18.0,0.0,82.0,2.0,0.025
+5 Count Grilled Nuggets,80.0,2.0,0.0,0.0,55.0,270,1,0.0,0.0,16,Chick-Fil-A,Other,20.0,['Chicken'],,64,18.0,0.0,82.0,2.0,0.025
+8 Count Grilled Nuggets,130.0,3.0,0.5,0.0,85.0,440,1,0.0,1.0,25,Chick-Fil-A,Other,19.230769230769234,['Chicken'],,100,27.0,4.0,131.0,1.0,0.0076923076923076
+Grilled Nuggets,130.0,3.0,0.5,0.0,85.0,440,1,0.0,1.0,25,Chick-Fil-A,Other,19.230769230769234,['Chicken'],,100,27.0,4.0,131.0,1.0,0.0076923076923076
+30 Count Grilled Nuggets,510.0,11.0,3.0,0.0,335.0,1710,4,1.0,3.0,98,Chick-Fil-A,Other,19.215686274509807,['Chicken'],,392,99.0,12.0,503.0,-7.0,-0.0137254901960784
+Grilled Filet,110.0,2.0,0.0,0.0,70.0,370,1,0.0,1.0,21,Chick-Fil-A,Other,19.090909090909093,['Chicken'],,84,18.0,4.0,106.0,-4.0,-0.0363636363636363
+12 Count Grilled Nuggets,200.0,4.5,1.0,0.0,130.0,660,2,0.0,1.0,38,Chick-Fil-A,Other,19.0,"['Chicken', 'Combo']",,152,40.5,4.0,196.5,-3.5,-0.0175
+"Grilled Chicken, Buffalo",90.0,2.0,1.0,0.0,50.0,900,2,0.0,1.0,17,Subway,Chicken,18.88888888888889,['Chicken'],,68,18.0,4.0,90.0,0.0,0.0
+Kentucky Grilled Chicken® Breast,210.0,7.0,2.0,0.0,130.0,710,0,0.0,0.0,38,Kfc,Chicken,18.095238095238095,['Chicken'],,152,63.0,0.0,215.0,5.0,0.0238095238095238
+Grilled Chicken Protein Bowl,200.0,4.0,2.0,0.0,100.0,480,9,3.0,5.0,35,Subway,Chicken,17.5,"['Chicken', 'Combo']",,140,36.0,20.0,196.0,-4.0,-0.02
+Rotisserie-Style Chicken,90.0,4.0,1.0,0.0,50.0,400,0,0.0,0.0,15,Subway,Chicken,16.666666666666664,['Chicken'],,60,36.0,0.0,96.0,6.0,0.0666666666666666
+Roast Beef Protein Bowl,210.0,4.0,1.0,0.0,70.0,920,12,3.0,7.0,33,Subway,Other,15.714285714285714,['Combo'],,132,36.0,28.0,196.0,-14.0,-0.0666666666666666
+Oven Roasted Turkey Protein Bowl,150.0,4.0,1.0,1.0,50.0,970,8,3.0,5.0,23,Subway,Other,15.333333333333332,['Combo'],,92,36.0,20.0,148.0,-2.0,-0.0133333333333333
+Grilled Chicken Salad,130.0,3.0,1.0,0.0,50.0,280,10,4.0,5.0,19,Subway,Chicken,14.615384615384617,"['Chicken', 'Salad']",,76,27.0,20.0,123.0,-7.0,-0.0538461538461538
+Rotisserie-Style Chicken Protein Bowl,220.0,8.0,3.0,0.0,105.0,810,8,3.0,4.0,31,Subway,Chicken,14.09090909090909,"['Chicken', 'Combo']",,124,72.0,16.0,212.0,-8.0,-0.0363636363636363
+Kentucky Grilled Chicken® Drumstick,80.0,4.0,1.0,0.0,55.0,220,0,0.0,0.0,11,Kfc,Chicken,13.750000000000002,['Chicken'],,44,36.0,0.0,80.0,0.0,0.0
+Oven Roasted Turkey & Ham Protein Bowl,160.0,4.0,1.0,0.0,55.0,1010,10,3.0,6.0,22,Subway,Other,13.750000000000002,['Combo'],,88,36.0,24.0,148.0,-12.0,-0.075
+Kentucky Grilled Chicken® Whole Wing,70.0,3.0,1.0,0.0,45.0,180,0,0.0,0.0,9,Kfc,Chicken,12.857142857142856,['Chicken'],,36,27.0,0.0,63.0,-7.0,-0.1
