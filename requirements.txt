@@ -12,3 +12,9 @@ soupsieve==2.6
 typing_extensions==4.13.1
 tzdata==2025.2
 urllib3==2.3.0
+matplotlib
+seaborn
+statsmodels
+scipy
+scikit-learn
+
